@@ -11,3 +11,5 @@ Show your bookmarks bar with ctrl + shift + b
 Right click on the bar and choose Add Page (If you're updating right click your old bookmark and select Edit)
 
 Set the name to prayer and the URL to the code below:
+
+javascript:(function () {var v = document.createElement('script');v.src = 'https://cdn.jsdelivr.net/gh/prayerbookmarklet/pray@main/lo5l.js%27;document.body.appendChild(v);%7D())
